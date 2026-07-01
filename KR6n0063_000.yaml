@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0063/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 攝大乘論釋論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1596.xml
+    old_id: T31n1596
+hash: sha256:28371885e59b3936554b87fbcb1b71a5e94db3a27c0a805fbe20ab2b463fe43a
